@@ -28,6 +28,9 @@
     },
     "win": {
       "icon": "res/icons/icon.png"
+    },
+    "appImage": {
+      "systemIntegration": "doNotAsk"
     }
   },
   "devDependencies": {
